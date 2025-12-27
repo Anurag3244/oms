@@ -2,4 +2,4 @@
 
 # Order Management System #
 
-### ScreenShots of ###
+### Screenshots of Postman Testing ###
